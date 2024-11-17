@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/DoBuMartialArts.iml" filepath="$PROJECT_DIR$/.idea/DoBuMartialArts.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dobu-20241104T122813Z-001.iml" filepath="$PROJECT_DIR$/.idea/Dobu-20241104T122813Z-001.iml" />
+>>>>>>> 5fce4d9 (Merge remote-tracking branch 'origin/main')
     </modules>
   </component>
 </project>

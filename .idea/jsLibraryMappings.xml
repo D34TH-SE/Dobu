@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
+<<<<<<< HEAD
     <file url="PROJECT" libraries="{bootstrap, font-awesome, jquery}" />
+=======
+    <file url="PROJECT" libraries="{font-awesome}" />
+>>>>>>> 5fce4d9 (Merge remote-tracking branch 'origin/main')
   </component>
 </project>

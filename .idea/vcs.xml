@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/Dobu" vcs="Git" />
+>>>>>>> 5fce4d9 (Merge remote-tracking branch 'origin/main')
   </component>
 </project>
